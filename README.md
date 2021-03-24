@@ -3,7 +3,7 @@
 Pretty simple script that will scrap Microcenters website and text
  you or email you when you item/s come into stock.
 
-![texts](./texts.png)
+<img src="texts.png" alt="texts" width="200"/>
 
 
 ## Setup
